@@ -11,7 +11,7 @@ Web3-Adapter2 is a powerful and flexible library for integrating Web3 functional
 
 ## Installation
 
-Install web3-adapter2 using npm:
+Clone web3-adapter2:
 
 ```bash
-npm install web3-adapter2
+git clone https://github.com/VedantAnand17/web3-adapter2.git
